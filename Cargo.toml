@@ -1,0 +1,12 @@
+[package]
+name = "ci-cd-pipeline"
+version = "0.1.0"
+edition = "2021"
+authors = ["Santiago Palacio Vásquez <keycode.santiago@gmail.com>"]
+description = "An intuitive CI/CD pipeline with GitHub Actions and Rust"
+license = "MIT"
+repository = "https://github.com/N3VER4YDIE/ci-cd-pipeline"
+keywords = ["ci", "cd", "github-actions", "example"]
+categories = ["development-tools"]
+
+[dependencies]
